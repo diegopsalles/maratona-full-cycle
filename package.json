@@ -1,0 +1,26 @@
+{
+  "name": "full_cycle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "debug": "^4.1.1",
+    "express": "^4.17.1",
+    "http": "0.0.1-security"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diegopsalles/maratona-full-cycle.git"
+  },
+  "bugs": {
+    "url": "https://github.com/diegopsalles/maratona-full-cycle/issues"
+  },
+  "homepage": "https://github.com/diegopsalles/maratona-full-cycle#readme",
+  "description": ""
+}
